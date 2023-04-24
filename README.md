@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-I'm a software engineer based in Amstelveen, The Netherlands.
+I'm a software engineer based in The Netherlands.
 
 - 🏡 I work at [JetBrains Inc.](https://jetbrains.com)
 - 📬 Reach me: [mailbox@dolzhenko.me](mailto:mailbox@dolzhenko.me)
