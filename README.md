@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-I'm a software engineer based in The Netherlands.
+I'm [a software engineer and team lead](https://dolzhenko.me/resume/) based in The Netherlands.
 
 - 📬 Reach me: [mailbox@dolzhenko.me](mailto:mailbox@dolzhenko.me)
 - 📒 I have a blog: [dolzhenko.me](https://dolzhenko.me)
